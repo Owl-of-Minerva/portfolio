@@ -1,0 +1,38 @@
+hr {
+  display: block;
+  border-style: solid;
+  border-color: #7d97ad;
+  border-bottom-width: 6px;
+  -webkit-margin-before: 0.5em;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+}
+
+
+.name-title {
+  text-align: right;
+  font-family: 'Lato', sans-serif;
+}
+
+
+.logo {
+  max-width: 20%;
+  max-height: 20%;
+}
+
+
+.featured-work {
+  color: #7d97ad;
+}
+
+
+p,
+a,
+h3 {
+  color: #2d3c49;
+}
+
+.header-row {
+  max-height: 10%;
+}
